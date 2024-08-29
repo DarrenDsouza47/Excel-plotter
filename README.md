@@ -10,6 +10,6 @@ pip install -r requirements.txt
 streamlit run main.py
 ```
 
-Note:excel storage function stores the excel in the form of image in an excel file which is still wip
+Note:excel storage function stores the excel in the form of image in an excel file
 
 ![image](https://github.com/user-attachments/assets/1d0cce78-49ad-41b4-997c-4994eb31c3d5)
