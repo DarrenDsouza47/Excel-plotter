@@ -1,0 +1,3 @@
+pandasai
+streamlit
+pandasai[excel]
